@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# my custom ingore
+.env
+trail.ipynb
+testing.ipynb
+
+
 # C extensions
 *.so
 
