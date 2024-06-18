@@ -1,0 +1,9 @@
+transformers
+accelerate
+streamlit
+torch
+torchvision
+bitsandbytes
+beautifulsoup4
+ollama
+python-dotenv
